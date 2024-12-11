@@ -1,0 +1,9 @@
+academia\demo\academia\repository\academiaRepository.class
+academia\demo\academia\model\academiaModel.class
+academia\demo\DemoApplicationTests.class
+academia\demo\SpringBootTest.class
+academia\demo\Test.class
+academia\demo\academia\controller\academiaController.class
+academia\demo\academia\record\academiaDto.class
+academia\demo\academia\AcademiaApplication.class
+academia\demo\academia\service\academiaService.class
